@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ciao! 👋
 
-<!--
-**fexxdev/fexxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Federico**, a passionate Fullstack Software Developer from Fermignano, Italy 🍝.
 
-Here are some ideas to get you started:
+#### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Fascinated by the world and everything in between.
+- 🔭 Currently crafting digital experiences at Proximo Srl.
+- 🚀 I'm also embarking on a journey to create my first startup with a dear friend!
+- 📫 Reach me at [fexxdev@gmail.com](mailto:fexxdev@gmail.com) or on [Twitter](https://twitter.com/fexxdev).
+- ⚡ Explore more at [fexx.dev](https://fexx.dev).
+
+Let's shape digital wonders with code! 🚀
